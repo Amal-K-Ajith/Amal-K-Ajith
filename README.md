@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/Amal-K-Ajith/count.svg?align=center)
 
 <!--
 **Amal-K-Ajith/Amal-K-Ajith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
